@@ -1,0 +1,40 @@
+body {
+    font-size: 24px;
+}
+.green-text {
+    color: green;
+}
+.red-text {
+    color: red;
+}
+.rgb89 {
+    color: rgb(89, 0, 255);
+}
+.rgb255 {
+    color: rgb(255, 0, 106);
+}
+.xxsmall {
+    font-size: 10px;
+}
+.xsmall {
+    font-size: 20px;
+}
+.small {
+    font-size: 30px;
+}
+.medium {
+    font-size: 40px;
+}
+.large {
+    font-size: 50px;
+}
+.xlarge {
+    font-size: 60px;
+}
+.xxlarge {
+    font-size: 70px;
+}
+.red {
+
+    color: red;
+}
